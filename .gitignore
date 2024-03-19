@@ -10,14 +10,3 @@
 !requirements.txt
 **/.vscode
 **/_log
-
-/slurm_outputs
-/ray_results
-/wandb
-orlkit_log
-video
-oasis_log
-oasis_log_ln
-ipynb_files/result_plots
-/NeoRL
-ipynb_files/script.ipynb
