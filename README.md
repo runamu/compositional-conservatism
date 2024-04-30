@@ -1,6 +1,6 @@
 # COCOA: Compositional Conservatism with Anchor-Seeking
 
-Official implementation of [COMPOSITIONAL CONSERVATISM: A TRANSDUCTIVE APPROACH IN OFFLINE REINFORCEMENT LEARNING](https://openreview.net/forum?id=HRkyLbBRHI)
+Official implementation of [COMPOSITIONAL CONSERVATISM: A TRANSDUCTIVE APPROACH IN OFFLINE REINFORCEMENT LEARNING](https://arxiv.org/abs/2404.04682)
 
 
 
